@@ -1,0 +1,32 @@
+.body__container{
+background: blueviolet;
+height: 573px;
+width:;
+left: 0px;
+top: 2852px;
+border-radius: 0px;
+
+}
+p{
+height: 110px;
+width: 407px;
+left: 187px;
+top: 3110px;
+border-radius: nullpx;
+
+
+}
+h1{
+  height: 37px;
+  width: 351px;
+  left: 187px;
+  top: 3057px;
+  border-radius: nullpx;
+
+}
+.body__text{
+  width: 50%;
+}
+.body__reference{
+  width: 50%;
+}
